@@ -1,7 +1,7 @@
 #
 # Automatically generated make config: don't edit
 # Busybox version: 1.36.1
-# Tue Sep 15 19:48:49 2026
+# Tue Sep 15 19:56:45 2026
 #
 CONFIG_HAVE_DOT_CONFIG=y
 
@@ -374,7 +374,7 @@ CONFIG_DUMPKMAP=y
 CONFIG_FGCONSOLE=y
 CONFIG_KBD_MODE=y
 CONFIG_LOADFONT=y
-# CONFIG_SETFONT is not set
+CONFIG_SETFONT=y
 # CONFIG_FEATURE_SETFONT_TEXTUAL_MAP is not set
 CONFIG_DEFAULT_SETFONT_DIR=""
 
